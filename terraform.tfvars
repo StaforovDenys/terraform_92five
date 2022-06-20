@@ -1,0 +1,5 @@
+mysql-admin-login    = "staferovdenis"
+mysql-admin-password = "HRF3_73re"
+mysql-version        = "5.7"
+mysql-sku-name       = "B_Gen5_1"
+mysql-storage        = "5120"
